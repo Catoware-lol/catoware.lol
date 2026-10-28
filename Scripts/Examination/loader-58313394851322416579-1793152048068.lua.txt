@@ -1,0 +1,19 @@
+
+--[[
+
+You can use this as your script loadstring.
+    
+Add 'lp_key' variable if your user has a key on top of this loadstring.
+
+You can remove this message block as you like.
+
+
+ _                ____            _   
+| |   _   _  __ _|  _ \ _ __ ___ | |_ 
+| |  | | | |/ _` | |_) | '__/ _ \| __|
+| |__| |_| | (_| |  __/| | | (_) | |_ 
+|_____\__,_|\__,_|_|   |_|  \___/ \__|
+                                    
+
+]]--
+loadstring(game:HttpGet("https://luaprot.net/api/v3/loaders/get/58313394851322416579"))()
